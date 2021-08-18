@@ -52,14 +52,14 @@ function VideoUploadPage() {
                 <br/>
 
                 <select onChange>
-                    <option key value></option>
+                    <option key="1" value="1"></option>
                 </select>
 
                 <br/>
                 <br/>
 
                 <select onChange>
-                    <option key value></option>
+                    <option key="2" value="2"></option>
                 </select>
 
                 <br/>
